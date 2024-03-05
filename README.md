@@ -23,7 +23,7 @@ The following features will later be implemented:
 
 ## Video Walkthrough
 
-[Guide]](https://www.loom.com/share/a6b4da8fe3654fb380f1d399649387a7?sid=9c6cfa79-e8e4-4131-875a-9f782ee7c8e7)
+[Guide]](https://www.loom.com/share/e9f7f32d05284e23aa607661b533fa6b?sid=4c1a4ee9-65ad-41e9-ba2e-cdf1adb39551)
 
 ## License
 
