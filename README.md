@@ -1,1 +1,1 @@
-# CodePath-project2
+# ios101-project2-wordle-starter
