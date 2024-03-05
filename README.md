@@ -4,7 +4,7 @@ Submitted by: **Imani C**
 
 **Wordle pt.2** is an app that builds off of it's predecessor, Wordle pt.1 from project 1. Filled in part of the implementation to integrate the settings screen and modify the rules of the game.
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
